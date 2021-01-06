@@ -7,5 +7,5 @@ Repo to store/control bash setup and plugins
 
 ### Terminal
 [Iterm](https://iterm2.com)
-* use Blue Matrix Theme
+* use [Blue Matrix](https://iterm2colorschemes.com/) Theme
 
