@@ -10,6 +10,7 @@ Repo to store/control bash setup and plugins
 * use [Blue Matrix](https://iterm2colorschemes.com/) Theme
 
 
-### Additional 
-`brew install bash-completion`
-* add it to bash_profile using `echo "[ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion" >> ~/.bash_profile`
+### Additional
+1. `brew install jq` for json parsing
+2. `brew install bash-completion`
+      * add it to bash_profile using `echo "[ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion" >> ~/.bash_profile`
