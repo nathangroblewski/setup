@@ -1,12 +1,8 @@
 # Setup
-Repo for terminal setup and plugins
+Personal repo for setting up new machines
 
 ## Terminal
 Install [Iterm 2](https://iterm2.com) and [pick a theme](https://iterm2colorschemes.com/)
-
-## Utilities
-1. `brew install jq` - for json parsing
-2. Install [Boop](https://github.com/IvanMathy/Boop)
 
 ## Zsh
 
@@ -17,6 +13,8 @@ Install [Iterm 2](https://iterm2.com) and [pick a theme](https://iterm2colorsche
 3. Update Iterm2 to [use powerline fonts](https://stackoverflow.com/questions/42271657/oh-my-zsh-showing-weird-character-on-terminal)
 4. Update .zshrc and ensure plugins are correct
 5. If running on OSX [add macos to plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/macos)
+
+
 ### Plugins
 
 Install for use with `oh-my-zsh`
@@ -28,9 +26,11 @@ Check for any language specific [plugins](https://github.com/ohmyzsh/ohmyzsh/wik
 ### Themes
    * Add [Powerlevel10k](https://github.com/romkatv/powerlevel10k) for `oh-my-zsh` - To Change configuration run `p10k configure`
 
-## Bash
+## OSX Apps
+* [Alfred](https://www.alfredapp.com/)
+* [Bear Note](https://bear.app/)
+* [Postman](https://www.postman.com/)
+* [Boop](https://github.com/IvanMathy/Boop)
 
-* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)  
-* [repository manager](https://github.com/mixu/gr)
-* `brew install bash-completion`
-      * add to bash_profile using `echo "[ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion" >> ~/.bash_profile`
+## Utilities
+1. `brew install jq` - for json parsing
