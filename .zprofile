@@ -1,4 +1,3 @@
-source ~/.profile # get my PATH setup
 source ~/.zshrc  # get my aliases
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
