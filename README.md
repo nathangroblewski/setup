@@ -9,10 +9,11 @@ Install [Iterm 2](https://iterm2.com) and [pick a theme](https://iterm2colorsche
 ### Setup
 
 1. Add [oh-my-zsh](https://ohmyz.sh/#install)
-2. Clone/Install [powerline-fonts](https://github.com/powerline/fonts)
-3. Update Iterm2 to [use powerline fonts](https://stackoverflow.com/questions/42271657/oh-my-zsh-showing-weird-character-on-terminal)
-4. Update .zshrc and ensure plugins are correct
-5. If running on OSX [add macos to plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/macos)
+2. [Install nvm](https://tecadmin.net/install-nvm-macos-with-homebrew/)
+3. Clone/Install [powerline-fonts](https://github.com/powerline/fonts)
+4. Update Iterm2 to [use powerline fonts](https://stackoverflow.com/questions/42271657/oh-my-zsh-showing-weird-character-on-terminal)
+5. Update .zshrc and ensure plugins are correct
+6. If running on OSX [add macos to plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/macos)
 
 
 ### Plugins
