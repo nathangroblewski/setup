@@ -13,7 +13,7 @@ Install [Iterm 2](https://iterm2.com) and [pick a theme](https://iterm2colorsche
 3. [Install nvm](https://tecadmin.net/install-nvm-macos-with-homebrew/)
 4. Clone/Install [powerline-fonts](https://github.com/powerline/fonts)
 5. Update Iterm2 to [use powerline fonts](https://stackoverflow.com/questions/42271657/oh-my-zsh-showing-weird-character-on-terminal)
-6. Install [powerlevel10k](https://github.com/romkatv/powerlevel10k#oh-my-zsh)
+6. Install [Powerlevel10k](https://github.com/romkatv/powerlevel10k#oh-my-zsh) for `oh-my-zsh` - To Change configuration run `p10k configure`
 7. Update .zshrc and ensure plugins are correct
 8. If running on OSX [add macos to plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/macos)
 
@@ -27,7 +27,7 @@ Install for use with `oh-my-zsh`
 Check for any language specific [plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) you might want.
 
 ### Themes
-   * Add [Powerlevel10k](https://github.com/romkatv/powerlevel10k) for `oh-my-zsh` - To Change configuration run `p10k configure`
+   * [Choose one](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
 
 ## Apps
 * [VSCode](https://code.visualstudio.com/)
