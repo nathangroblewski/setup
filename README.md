@@ -70,4 +70,5 @@ Run the install script to add the remaining `cli` and desktop tools
 * [XCode command line tools](https://mac.install.guide/commandlinetools/3.html)
 * [Boop](https://github.com/IvanMathy/Boop)
 * [Bear Note](https://bear.app/)
+* [Rectangle](https://github.com/rxhanson/Rectangle)
 * [Pyenv](https://github.com/pyenv/pyenv#homebrew-in-macos)
